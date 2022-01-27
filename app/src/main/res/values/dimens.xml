@@ -1,0 +1,19 @@
+<!--
+  ~ /*
+  ~ dimens.xml
+  ~ Created by chibiragu on 23/09/21, 2:02 PM
+  ~ Copyright (c) 2021 WesternDigital . All rights reserved.
+  ~  */
+  -->
+
+<resources>
+
+    <!-- Margin -->
+    <dimen name="activity_main_title_start_margin">10dp</dimen>
+    <dimen name="activity_main_title_top_margin">10dp</dimen>
+    <dimen name="activity_main_title_end_margin">10dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="explanation_text_size">16sp</dimen>
+</resources>
